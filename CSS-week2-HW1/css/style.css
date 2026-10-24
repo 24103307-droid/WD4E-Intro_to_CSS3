@@ -9,6 +9,8 @@ header {
 
 nav {
     background-color: #b8d8f0;
+    display: inline-block;
+    width: 80%;
 }
 
 main {
@@ -19,12 +21,12 @@ main {
 footer {
     background-color: #d9eaf7;
 }
-
+/*
 li {
     display: inline-block;
     width: 30%;
 }
-
+*/
 h1 {
     text-align: center;
     font-family: Georgia, "Times New Roman", serif;
@@ -33,4 +35,7 @@ h1 {
 
 p {
     line-height: 1.5;
+}
+nav img {
+    width: 10%;
 }
